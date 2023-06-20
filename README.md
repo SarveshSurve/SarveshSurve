@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SarveshSurve
-- 👀 I’m interested in studying the gut microbiome
-- 🌱 I’m currently learning R, Python to enhance my genome analysis skills
-- 💞️ I’m looking to collaborate on Microbiome analysis
+-  I’m interested in studying the gut microbiome
+-  I’m currently learning R and Python to enhance my genome analysis skills
 
 <!---
 SarveshSurve/SarveshSurve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
